@@ -1,0 +1,41 @@
+h1{
+	font-family: Georgia, serif;
+	background-color: sienna;
+	color: white;
+	text-align: center;
+	width: 250px;
+}
+.pendek{
+	width: 100px;
+}
+body{
+	background-color: tan;
+}
+h4{
+	font-family: Calibri, Helvetica, Arial, sans-serif;
+}
+p{
+	font-family: Cambria, Times New Roman, serif;
+	text-align: justify;
+}
+p, h1, h3, img{
+	margin-top: 20px;
+  margin-bottom: 20px;
+  margin-right: 20px;
+  margin-left: 20px;
+}
+.btn {
+  padding: 12px 24px;
+  display: inline-block;
+  opacity: 0.8;
+  border-radius: 4px;
+}
+.btn:hover {
+  opacity: 1;
+}
+a{
+	margin-top: 20px;
+  margin-bottom: 20px;
+  margin-right: 20px;
+  margin-left: 20px;
+}
